@@ -1,0 +1,17 @@
+    {
+        "_id": "5cfb769b2a1fa23a478025ba",
+        "title": "test task",
+        "type": "Questionaire",
+        "salary": 20,
+        "description": "task for test",
+        "beginTime": "2019-08-19T16:00:00.000Z",
+        "expireTime": "2019-08-21T16:00:00.000Z",
+        "participantNum": 1,
+        "tags": "Testing",
+        "uid": "796885d0-c912-4559-ad8b-2acddcc066e3",
+        "tid": "f4cecc81-ccff-41c9-bedc-3acd3da2dce1",
+        "status": "start",
+        "totalCost": 20,
+        "createTime": "2019-06-08 16:49:31",
+        "currentParticipator": 0
+    }
