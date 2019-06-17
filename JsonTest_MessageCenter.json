@@ -1,5 +1,4 @@
-{
-"message": [
+[
   {
   "type" : "New Review",
   "tid" : "123",
@@ -61,4 +60,3 @@
   "name" : ""
   },
 ]
-}
