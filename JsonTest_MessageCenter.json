@@ -1,61 +1,61 @@
 {
 "message": [
   {
-  "type" : "New Review"
+  "type" : "New Review",
   "tid" : "123",
   "title" : "买泡面",
   "name" : "苏泽华"
   },
   {
-  "type" : "New Participant"
+  "type" : "New Participant",
   "tid" : "123",
   "title" : "买泡面",
   "name" : ""
   },
   {
-  "type" : "Participant Quit"
+  "type" : "Participant Quit",
   "tid" : "123",
   "title" : "买泡面",
   "name" : "苏泽华"
   },
   {
-  "type" : "Participant Finish"
+  "type" : "Participant Finish",
   "tid" : "123",
   "title" : "买泡面",
   "name" : "苏泽华"
   },
   {
-  "type" : "New Participant"
+  "type" : "New Participant",
   "tid" : "123",
   "title" : "买泡面",
   "name" : ""
   },
   {
-  "type" : "Disqualified"
+  "type" : "Disqualified",
   "tid" : "123",
   "title" : "买泡面",
   "name" : ""
   },
   {
-  "type" : "Qualified"
+  "type" : "Qualified",
   "tid" : "123",
   "title" : "买泡面",
   "name" : ""
   },
   {
-  "type" : "End Before Begintime"
+  "type" : "End Before Begintime",
   "tid" : "123",
   "title" : "买泡面",
   "name" : ""
   },
   {
-  "type" : "End Before Expire"
+  "type" : "End Before Expire",
   "tid" : "123",
   "title" : "买泡面",
   "name" : ""
   },
   {
-  "type" : "End After Expire"
+  "type" : "End After Expire",
   "tid" : "123",
   "title" : "买泡面",
   "name" : ""
